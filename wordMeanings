@@ -1,0 +1,29 @@
+[
+        {
+            "_comment1": ["score", "rating"],
+            "result": [869, 3],
+            "words": [
+                ["राष्ट्रपति", "President", "President", "Vice President", "Chif Minister", "Prime Minister"],
+                ["मुख्यमंत्री", "Chif Minister", "Minister", "Chif Minister", "chief", "Prime Minister"],
+                ["सावधान", "Careful", "Careful", "diverse", "Care", "Humble"],
+                ["उम्मीद", "Hope", "Doer", "Kind", "Hope", "Bold"]
+            ]
+        },
+        {
+            "result": [879, 1],
+            "words": [
+                ["चारपाई", "Doss", "Flour", "Pit", "Plaza", "Doss"],
+                ["हगना", "Shit", "Swim", "Thread", "Shit", "Clumsy"],
+                ["के बारे में", "About", "For About", "About", "Se About", "He About"],
+                ["संबंधी", "Relative", "Relative", "Pach", "Revenge", "Godly"]
+            ]
+        },
+        {
+            "words": [
+                ["चारपाई", "Doss", "Flour", "Pit", "Plaza", "Doss"],
+                ["हगना", "Shit", "Swim", "Thread", "Shit", "Clumsy"],
+                ["के बारे में", "About", "For About", "About", "Se About", "He About"],
+                ["संबंधी", "Relative", "Relative", "Pach", "Revenge", "Godly"]
+            ]
+        }
+    ]
