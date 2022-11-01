@@ -19,12 +19,12 @@
                 ["नाटक", "Drama", "Highlight", "Drama", "Iron", "Wreck"],
                 ["बर्बाद", "Wrecked", "Rush", "Game", "Disturbance", "Wrecked"],
                 ["संस्करण", "Edition", "sleeve", "Edition", "bat", "declaration"],
-                ["नियोक्ता", "employer", truth "battery", "employer", "affect"],
-                ["मुठभेड़", "encounter", "convention", "jurisdiction", "radio", encounter
+                ["नियोक्ता", "employer", "truth" "battery", "employer", "affect"],
+                ["मुठभेड़", "encounter", "convention", "jurisdiction", "radio", "encounter"
                 ["समाप्त", "end", "debut", "end", "fortune", "tolerant"],
-                ["खाली", "empty", end"", "girlfriend", "empty", "watch"],
+                ["खाली", "empty", "end", "girlfriend", "empty", "watch"],
                 ["दुश्मन", "enemy", "axis", "exchange", "level", "enemy"],
-                ["प्रवर्तन", "enforcement", convention"", "demand", "enforcement", "neglect"],
+                ["प्रवर्तन", "enforcement", "convention", "demand", "enforcement", "neglect"],
                 ["खाली", "empty", "clinic", "empty", "craft", "idea"],
                 ["यन्त्र", "engine", "decay", "teacher", "campaign", "engine"],
                 ["काम पर लगाना", "engage", "present", "engage", "problem", "stake"], 
@@ -41,7 +41,7 @@
                 ["वातावरण", "environment", "misery", "occupation", "acceptance", "environment"],
                 ["पर्यावरण", "environmental", "threaten", "environmental", "asylum", "nonremittal"],
                 ["प्रकरण", "episode", "enfix", "memorandum", "steward", "episode"],
-                [बराबरी का", "equal", "access", "equal", "discriminate", "conception"],
+                ["बराबरी का", "equal", "access", "equal", "discriminate", "conception"],
                 ["समान रूप से", "equally", "machinery", "momentum", "equally", "hate"],
                 ["समानता", "equate", "plan", "disclose", "equate", "flower"]
             ]
