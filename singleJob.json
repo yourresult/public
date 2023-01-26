@@ -1,1 +1,123 @@
-{"status":"success","data":{"basic_detail":{"availability":["Full","Part Time"],"PName":"UPPSC UP Civil Judge PCS J Recruitment 2022","secondry_name":"","Orgnization":"State agency","compny_name":"Uttar Pradesh Public Service Commission","total_vacancy":"303","minAge":"22","maxAge":"35","logo":"Seal_of_Uttar_Pradesh.png"},"updateUser":[],"updateDate":[],"_id":"63c4f0144ff5c446b8bb8b92","author":"5ff669bba012cf02c4856735","soc_media":{"fb":"","wb":"","ph":"0532 - 2407547","em":"online.uppsc@nic.in","ofw":"https://uppsc.up.nic.in/","twet":"","lnkdin":"","gMap":"C:\\fakepath\\Seal_of_Uttar_Pradesh.png","other":[["",""]]},"dates":{"aplBegin":"10-12-2022","lDate":"06-01-2023","lDatePayExFee":"06-01-2023","exmDate":"","admCard":"","other":[["Re Upload Photo / Signature","11-18 January 2023"]]},"links":{"apyLink":"https://uppsc.up.nic.in/Notifications.aspx","downNotifLink":"https://uppsc.up.nic.in/View_Enclosure.aspx?ID=405&flag=H&FID=724","offWebLink":"https://uppsc.up.nic.in/","downAdmitLink":"","viewRes":"","other":[["Notice For Re Upload Photo Signature","https://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=2626"],["Check Form Status / Re Upload Photo Signature","https://uppsc.up.nic.in/ViewStatus.aspx"]]},"application_fee":{"gen":"125","obc":"125","sc":"65","st":"65","phCand":"25","other":[["Pay the Examination Fee Through Debit Card, Credit Card, Net Banking or Pay Offline Through E Challan",""]]},"age":{"minWom":"","maxWom":"","minMen":"","maxMen":"","ageRelax":"","other":[["",""]]},"tags":{"tags":["","","","","","",""],"other":["UPPSC","Civil Judge","PCS J Exam","Uttar Pradesh Public Service Commission"]},"title":"UPPSC Civil Judge PCS J Pre Recruitment 2022 Status / Re Upload Photo and Signature for 303 Post","elegibility":"","description":"<table cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\"><strong>Post Name</strong></td>\n\t\t\t<td style=\"text-align:center\"><strong>Total Post</strong></td>\n\t\t\t<td style=\"text-align:center\"><strong>UPPSC Civil Judge PCS J Eligibility 2022</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">Civil Judge PCS J</td>\n\t\t\t<td style=\"text-align:center\">303</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Bachelor Degree in Law (LLB) in Any Recognized University in India.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n","sortDetail":"<p>Uttar Pradesh Public Service Commission UPPSC has issued an advertisement for the recruitment of Civil Judge PCS J Exam 2022-2023. All the candidates who are interested in this UP Civil Judge PCS J Recruitment of UPPSC and fulfill the eligibility can apply online from 10 December 2022 to 06 January 2023. Read the notification for UPPSC Latest Recruitment Qualification, Age Limit, Selection Procedure, Pay Scale, Syllabus and other information.</p>\n","visibility":"public","status":"publish","type":"government","publishDate":"2023-01-16","permalink":"uppcs-civil-judge-dec22","date":"2023-01-16T06:35:00.376Z","__v":0}}
+{
+  "status": "success",
+  "data": {
+    "basic_detail": {
+      "availability": [
+        "Full",
+        "Part Time"
+      ],
+      "PName": "UPPSC UP Civil Judge PCS J Recruitment 2022",
+      "secondry_name": "",
+      "Orgnization": "State agency",
+      "compny_name": "Uttar Pradesh Public Service Commission",
+      "total_vacancy": "303",
+      "minAge": "22",
+      "maxAge": "35",
+      "logo": "Seal_of_Uttar_Pradesh.png"
+    },
+    "updateUser": [],
+    "updateDate": [],
+    "_id": "63c4f0144ff5c446b8bb8b92",
+    "author": "5ff669bba012cf02c4856735",
+    "soc_media": {
+      "fb": "",
+      "wb": "",
+      "ph": "0532 - 2407547",
+      "em": "online.uppsc@nic.in",
+      "ofw": "https://uppsc.up.nic.in/",
+      "twet": "",
+      "lnkdin": "",
+      "gMap": "C:\\fakepath\\Seal_of_Uttar_Pradesh.png",
+      "other": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    "dates": {
+      "aplBegin": "10-12-2022",
+      "lDate": "06-01-2023",
+      "lDatePayExFee": "06-01-2023",
+      "exmDate": "",
+      "admCard": "",
+      "other": [
+        [
+          "Re Upload Photo / Signature",
+          "11-18 January 2023"
+        ]
+      ]
+    },
+    "links": {
+      "apyLink": "https://uppsc.up.nic.in/Notifications.aspx",
+      "downNotifLink": "https://uppsc.up.nic.in/View_Enclosure.aspx?ID=405&flag=H&FID=724",
+      "offWebLink": "https://uppsc.up.nic.in/",
+      "downAdmitLink": "",
+      "viewRes": "",
+      "other": [
+        [
+          "Notice For Re Upload Photo Signature",
+          "https://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=2626"
+        ],
+        [
+          "Check Form Status / Re Upload Photo Signature",
+          "https://uppsc.up.nic.in/ViewStatus.aspx"
+        ]
+      ]
+    },
+    "application_fee": {
+      "gen": "125",
+      "obc": "125",
+      "sc": "65",
+      "st": "65",
+      "phCand": "25",
+      "other": [
+        [
+          "Pay the Examination Fee Through Debit Card, Credit Card, Net Banking or Pay Offline Through E Challan",
+          ""
+        ]
+      ]
+    },
+    "age": {
+      "minWom": "",
+      "maxWom": "",
+      "minMen": "",
+      "maxMen": "",
+      "ageRelax": "",
+      "other": [
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    "tags": {
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "other": [
+        "UPPSC",
+        "Civil Judge",
+        "PCS J Exam",
+        "Uttar Pradesh Public Service Commission"
+      ]
+    },
+    "title": "UPPSC Civil Judge PCS J Pre Recruitment 2022 Status / Re Upload Photo and Signature for 303 Post",
+    "elegibility": "",
+    "description": "<table cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\"><strong>Post Name</strong></td>\n\t\t\t<td style=\"text-align:center\"><strong>Total Post</strong></td>\n\t\t\t<td style=\"text-align:center\"><strong>UPPSC Civil Judge PCS J Eligibility 2022</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">Civil Judge PCS J</td>\n\t\t\t<td style=\"text-align:center\">303</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Bachelor Degree in Law (LLB) in Any Recognized University in India.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n",
+    "sortDetail": "<p>Uttar Pradesh Public Service Commission UPPSC has issued an advertisement for the recruitment of Civil Judge PCS J Exam 2022-2023. All the candidates who are interested in this UP Civil Judge PCS J Recruitment of UPPSC and fulfill the eligibility can apply online from 10 December 2022 to 06 January 2023. Read the notification for UPPSC Latest Recruitment Qualification, Age Limit, Selection Procedure, Pay Scale, Syllabus and other information.</p>\n",
+    "visibility": "public",
+    "status": "publish",
+    "type": "government",
+    "publishDate": "2023-01-16",
+    "permalink": "uppcs-civil-judge-dec22",
+    "date": "2023-01-16T06:35:00.376Z",
+    "__v": 0
+  }
+}
